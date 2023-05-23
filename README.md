@@ -4,7 +4,7 @@
 <h2 align="center">😀 About Me</h2>
 
 I am a Tech enthusiast who is also attempting to master software engineering ideas.
-- 🌱 I do Graphic UI designs and currently learning software engineering.
+- 🌱 I am an Aerospace Engineering Student and also learning Software engineering.
 - 🤔 I’m looking for help with Assembly Language.
 - 💬 Ask me about web development and programming.
 - 📫 How to reach me: [E-mail](mailto:dametorwobla@gmail.com).
